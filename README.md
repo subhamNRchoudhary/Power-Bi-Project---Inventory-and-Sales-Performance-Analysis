@@ -1,8 +1,9 @@
 # Power-Bi-Project---Inventory-and-Sales-Performance-Analysis
 Using the Basic tool in Power Bi
 
-![Uploading image.png…]()
 
+
+![Save1](https://github.com/user-attachments/assets/c9827b15-c570-4669-beff-19466f70dd62)
 
 
 Total Units Sold
