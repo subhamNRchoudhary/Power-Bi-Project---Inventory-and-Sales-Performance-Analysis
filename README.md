@@ -1,6 +1,7 @@
 # Power-Bi-Project---Inventory-and-Sales-Performance-Analysis
 Using the Basic tool in Power Bi
 
+![Uploading image.png…]()
 
 
 
